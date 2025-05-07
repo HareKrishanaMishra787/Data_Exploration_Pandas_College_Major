@@ -1,4 +1,4 @@
-# 🎓📊 Data Exploration with Pandas: College Major vs Salary Analysis
+# 🎓📊 Data Exploration with Pandas
 
 Welcome to this data exploration project where we dive into the relationship between college majors and salaries using **Python**, **Pandas**, and **Matplotlib**. This project showcases how data analysis can reveal valuable insights into career prospects based on different fields of study.
 
